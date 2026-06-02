@@ -54,18 +54,6 @@
 
 ---
 
-### 🏫 [CampusManager](https://github.com/rta-ai/CampusManager)
-> Full-featured Campus Management System for educational institutions
-- **Stack:** TypeScript · Full-stack web
-
----
-
-### 💰 [FeeTrack](https://github.com/rta-ai/FeeTrack)
-> Fee tracking system for courses and academies
-- **Stack:** HTML · JavaScript
-
----
-
 ## 📊 GitHub Stats
 
 ![Muhammad Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rta-ai&show_icons=true&theme=tokyonight&hide_border=true)
