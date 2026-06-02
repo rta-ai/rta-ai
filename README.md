@@ -40,17 +40,24 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Question Generator](https://github.com/rta-ai/ai-question-generator)
-> Generate MCQs, True/False, and Short Descriptive questions on any topic instantly
-- **Stack:** Python · Gradio · Groq · LLaMA 3.3 70B
-- 🔗 [Live Demo](https://huggingface.co/spaces/RTAAI/ai-question-generator)
-
----
-
 ### 🧠 [DocuMind](https://github.com/rta-ai/DocuMind)
 > RAG-powered PDF Chat Assistant — upload any PDF and ask questions about it
 - **Stack:** Python · Streamlit · ChromaDB · LangChain · Groq · LLaMA 3.3 70B
 - 🔗 [Live Demo](https://huggingface.co/spaces/RTAAI/DocuMind)
+
+---
+
+🎓 [TaleemCheck AI](https://github.com/rta-ai/TaleemCheck_ai)
+AI-assisted grading & feedback system — built by a working teacher to reduce manual paper-checking
+- Stack: Python · Streamlit · Groq · LLaMA 3.3 70B · OCR
+- 🔗 [Live Demo](https://taleemcheckai.streamlit.app/)
+
+---
+ 
+### 🤖 [AI Question Generator](https://github.com/rta-ai/ai-question-generator)
+> Generate MCQs, True/False, and Short Descriptive questions on any topic instantly
+- **Stack:** Python · Gradio · Groq · LLaMA 3.3 70B
+- 🔗 [Live Demo](https://huggingface.co/spaces/RTAAI/ai-question-generator)
 
 ---
 
