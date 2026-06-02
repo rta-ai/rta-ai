@@ -63,9 +63,9 @@ AI-assisted grading & feedback system — built by a working teacher to reduce m
 
 ## 📊 GitHub Stats
 
-![Muhammad Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rta-ai&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rta-ai&layout=compact&theme=tokyonight&hide_border=true)
+![Muhammad Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rta-ai&show_icons=true&theme=dark&hide_border=true&count_private=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rta-ai&layout=compact&theme=dark&hide_border=true)
 ---
 
 ## 🌐 Connect With Me
